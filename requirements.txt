@@ -1,0 +1,3 @@
+selenuim
+beautifulsoup4
+csv
